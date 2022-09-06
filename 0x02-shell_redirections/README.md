@@ -1,1 +1,1 @@
-This is a script that deletes all the regular files
+This is a script that displays the 10 newest files in the current directory
