@@ -1,1 +1,1 @@
-This is a script that counts the number of directories and sub-directories
+This is a script that deletes all the regular files
