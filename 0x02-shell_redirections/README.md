@@ -1,1 +1,1 @@
-This is a script that writes into the file ls_cwd_content
+This is a shell script that creates a file named exactly
